@@ -32,8 +32,8 @@
 ###### &nbsp;&nbsp; Displays all the projects in one area<br> 
 &nbsp;&nbsp;&nbsp;&nbsp; **Project**<br> 
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individual Project Components<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;**Project Creator**<br>
-&nbsp;&nbsp;>&nbsp;&nbsp;Provides the forms and data submission for projects<br>
+&nbsp;&nbsp;**Project Creator**<br>
+###### &nbsp;&nbsp;>&nbsp;&nbsp; Provides the forms and data submission for projects<br>
 
 ---
 
