@@ -16,12 +16,12 @@
 ---
 
 ## Routes 
-&nbsp;&nbsp;&nbsp;&nbsp; **Frontend** 
-&nbsp;&nbsp;&nbsp;&nbsp; >Post: sends the project data to the backend 
-&nbsp;&nbsp;&nbsp;&nbsp; **Backend** 
-&nbsp;&nbsp;&nbsp;&nbsp; >Get: Returns all projects to be displayed 
-&nbsp;&nbsp;&nbsp;&nbsp; >Delete: Deletes a specific project 
-&nbsp;&nbsp;&nbsp;&nbsp; >Put: Updates a specific project 
+&nbsp;&nbsp;&nbsp;&nbsp; **Frontend** (<br>) 
+&nbsp;&nbsp;&nbsp;&nbsp; >Post: sends the project data to the backend (<br>) 
+&nbsp;&nbsp;&nbsp;&nbsp; **Backend** (<br>) 
+&nbsp;&nbsp;&nbsp;&nbsp; >Get: Returns all projects to be displayed (<br>) 
+&nbsp;&nbsp;&nbsp;&nbsp; >Delete: Deletes a specific project (<br>) 
+&nbsp;&nbsp;&nbsp;&nbsp; >Put: Updates a specific project (<br>) 
 
 ---
 
