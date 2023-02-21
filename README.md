@@ -11,9 +11,9 @@
 
 ## Models
 **Project Model** 
-> Img
-> Title
-> Links
+> Img 
+> Title 
+> Links 
 
 ---
 
